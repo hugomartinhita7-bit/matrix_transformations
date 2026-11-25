@@ -2,7 +2,7 @@
 Como se move o triângulo?
 Tarefa exploratória sobre transformações no plano com matrizes (Streamlit).
 
-Módulos autónomos:  A · variações de tamanho (scaling)  ·  B · cisalhamentos (shearing)  ·  C · rotações  ·  D · exercício (em construção).
+Módulos autónomos:  A · variações de tamanho (scaling)  ·  B · cisalhamentos (shearing)  ·  C · rotações  ·  D · Desafio (em construção).
 
 Executar:  streamlit run app.py
 """
@@ -911,7 +911,7 @@ def dv_produto(modo_prof):
 
 
 def modulo_exercicio(modo_prof):
-    st.header("Módulo D — Exercício")
+    st.header("Módulo D — Desafio")
     dv_produto(modo_prof)
 
 
